@@ -9,9 +9,8 @@ License: UNKNOWN
 Description: UNKNOWN
 Platform: UNKNOWN
 Classifier: Programming Language :: Python
-Classifier: License :: GNU General Public License (GPL)
+Classifier: License :: OSI Approved :: GNU General Public License v2 (GPLv2)
 Classifier: Operating System :: OS Independent
-Classifier: Development Status :: Production
+Classifier: Development Status :: 4 - Beta
 Classifier: Environment :: Console
-Classifier: Intended Audience :: Finance
-Classifier: Topic :: Finance
+Classifier: Topic :: Office/Business :: Financial

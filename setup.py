@@ -15,9 +15,5 @@ setup(
         'Development Status :: 4 - Beta',
         'Environment :: Console',
         'Topic :: Office/Business :: Financial',
-    ],
-    install_requires = [
-        'json',
-        'urllib2',
     ]
 )
