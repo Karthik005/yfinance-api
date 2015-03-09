@@ -16,9 +16,9 @@ setup(
         'Environment :: Console',
         'Intended Audience :: Finance',
         'Topic :: Finance'
-    ]
+    ],
     install_requires = [
         'json',
         'urllib2',
-    ],
+    ]
 )
