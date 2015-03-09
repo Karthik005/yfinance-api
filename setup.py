@@ -10,12 +10,11 @@ setup(
     url='https://github.com/Karthik005/yfinanceapi',
     classifiers=[
         'Programming Language :: Python',
-        'License :: GNU General Public License (GPL)',
+        'License :: OSI Approved :: GNU General Public License v2 (GPLv2)',
         'Operating System :: OS Independent',
-        'Development Status :: Production',
+        'Development Status :: 4 - Beta',
         'Environment :: Console',
-        'Intended Audience :: Finance',
-        'Topic :: Finance'
+        'Topic :: Office/Business :: Financial',
     ],
     install_requires = [
         'json',

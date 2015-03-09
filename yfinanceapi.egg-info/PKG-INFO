@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: yfinanceapi
+Version: 1.0.0
+Summary: Equity/commodity/currency information API
+Home-page: https://github.com/Karthik005/yfinanceapi
+Author: Karthik Bharadwaj
+Author-email: karthikbharadwaj005@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: License :: GNU General Public License (GPL)
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: Production
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Finance
+Classifier: Topic :: Finance
