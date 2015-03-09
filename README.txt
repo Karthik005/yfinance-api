@@ -15,16 +15,23 @@ Instructions on installing pip can be found here: https://pip.pypa.io/en/latest/
 Usage
 -----
 
-The API can be used after importing.
+The API can be used after importing in the following manner:
+
+import yfinanceapi.api as api
+
 Stock/Equity information is be obtained as follows:
 
-get_prices(['GOOG','MSFT','INFY.NS'])
-get_volumes(['GOOG','MSFT','INFY.NS'])
+api.get_prices(['GOOG','MSFT','INFY.NS'])
+api.get_volumes(['GOOG','MSFT','INFY.NS'])
+
+Prices are in currency values of the country in which symbol is listed
 
 Currency information is obtained as follows:
 
-get_currency_price(['INR','JPY'])
-get_currency_utc(['INR','JPY'])
+api.get_currency_price(['INR','JPY'])
+api.get_currency_utc(['INR','JPY'])
+
+All prices are in USD for currencies
 
 More functions, information on usage and allowed symbol values can be found in the docstrings of the yfinanceapi.py file
 
