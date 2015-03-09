@@ -2,8 +2,7 @@ from setuptools import setup
  
 setup(
     name = 'yfinanceapi',
-    packages = ['yfinanceapi'],
-    version = '1.0.0',
+    version = '1.0.1',
     description = 'Equity/commodity/currency information API',
     author='Karthik Bharadwaj',
     author_email='karthikbharadwaj005@gmail.com',
