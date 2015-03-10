@@ -1,11 +1,11 @@
 Metadata-Version: 1.1
 Name: yfinanceapi
 Version: 1.0.1
-Summary: Equity/commodity/currency information API. Source content from Yahoo! Finance
+Summary: Equity/commodity/currency information API; sources content from Yahoo! Finance
 Home-page: https://github.com/Karthik005/yfinanceapi
 Author: Karthik Bharadwaj
 Author-email: karthikbharadwaj005@gmail.com
-License: UNKNOWN
+License: GNU v2.0
 Description: UNKNOWN
 Platform: UNKNOWN
 Classifier: Intended Audience :: Developers
@@ -15,3 +15,5 @@ Classifier: Operating System :: Unix
 Classifier: Development Status :: 4 - Beta
 Classifier: Environment :: Console
 Classifier: Topic :: Office/Business :: Financial
+Requires: urllib2
+Requires: json

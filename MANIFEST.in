@@ -1,4 +1,4 @@
 include MANIFEST.in
 include *.txt
 exclude *.pyc
-exclude *~
+recursive-exclude * *~
