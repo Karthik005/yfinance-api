@@ -20,7 +20,7 @@ The installation may require root permissions.
 Usage
 -----
 
-The API can be used after importing in the following manner:
+The API can be imported in the following manner:
 
 import yfinanceapi.api as api
 
