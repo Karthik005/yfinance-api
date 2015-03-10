@@ -22,7 +22,7 @@ Usage
 
 The API can be imported in the following manner:
 
-import yfinanceapi.api as api
+import yfinanceapi as api
 
 Stock/equity information is obtained as follows:
 

@@ -4,7 +4,7 @@ setup(
     name = 'yfinanceapi',
     version = '1.0.1',
     py_modules=['yfinanceapi'],
-    description = 'Equity/commodity/currency information API. Source content from Yahoo! Finance',
+    description = 'Equity/commodity/currency information API; sources content from Yahoo! Finance',
     author='Karthik Bharadwaj',
     author_email='karthikbharadwaj005@gmail.com',
     url='https://github.com/Karthik005/yfinanceapi',
