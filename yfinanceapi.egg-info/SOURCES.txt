@@ -1,8 +1,0 @@
-LICENSE.txt
-MANIFEST.in
-README.txt
-setup.py
-yfinanceapi.egg-info/PKG-INFO
-yfinanceapi.egg-info/SOURCES.txt
-yfinanceapi.egg-info/dependency_links.txt
-yfinanceapi.egg-info/top_level.txt
