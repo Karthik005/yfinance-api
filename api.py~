@@ -24,9 +24,8 @@ Commodity/Equity information fetcher functions
 '''
 
 '''
-In the case of non-US stocks and equities, the stock exchange in which the
-company is listed must be specified in the symbols. Eg: Infosys Limited listed on
-the National Stock Exchange(India) would have a symbol of 'INFY.NS'
+The tickers/symbols must be the same as those used on Yahoo! Finance 
+Eg: Lenovo Group listed on the Hong Kong Stock Exchange would have a symbol of '0992.HK'
 '''
 
 def get_json(symbols):
