@@ -1,5 +1,3 @@
-				# yfinanceapi (Equity and currency information API)
-
 ##  Description
 
 The yfinanceapi is an API for Python that builds on top of the Yahoo! finance JSON API to provide equity and currency information, such as price, volume, last trade time etc.
