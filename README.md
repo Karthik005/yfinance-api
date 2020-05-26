@@ -1,12 +1,10 @@
-				yfinanceapi (Equity and currency information API)
+				# yfinanceapi (Equity and currency information API)
 
-Description
------------
+##  Description
 
 The yfinanceapi is an API for Python that builds on top of the Yahoo! finance JSON API to provide equity and currency information, such as price, volume, last trade time etc.
 
-Installation
-------------
+## Installation
 
 The API can be installed from PyPi using the following command:
 pip install yfinanceapi
@@ -17,8 +15,7 @@ pip install git+https://github.com/Karthik005/yfinanceapi#egg=yfinanceapi
 
 The installation may require root permissions.
 
-Usage
------
+## Usage
 
 The API can be imported in the following manner:
 
@@ -41,20 +38,12 @@ Currency values are measured with respect to USD.
 Additional functions, information on usage and allowed symbol values can be found in the docstrings of the api.py file.
 
 
-Copyright
----------
+## Copyright
 
 Copyright 2015, Karthik.S
 
 
-License
--------
+## License
 
 This project is licensed under GNU v2.0. For more information read the LICENSE.txt file.
-
-
-Bugs and requests
-----------------
-
-Bugs and feature requests can be reported at karthikbharadwaj005@gmail.com
 
